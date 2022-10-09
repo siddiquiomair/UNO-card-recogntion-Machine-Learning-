@@ -94,7 +94,7 @@ while True:
 webcam.release()
 cv2.destroyAllWindows()
 
-"""
+
 
 #Testing with folder 
  
@@ -132,7 +132,7 @@ for Path in glob(r'C:\Users\Admin\Documents\CARD MAIN\UNO CARDS\test images/*.jp
     
     print(prediction)
 
-"""
+
 
 
 
